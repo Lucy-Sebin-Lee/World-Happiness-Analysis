@@ -17,7 +17,7 @@ This project analyzes global happiness scores using the **World Happiness Report
 ```
 
 ## 🧠 Key Insights
-- **Top Influencers of Happiness**: **GDP per capita**, **Social support**, and **Healthy life expectancy** are the strongest positive correlates of happiness.
+- **Top Influencers of Happiness**: GDP per capita, Social support, and Healthy life expectancy are the strongest positive correlates of happiness.
 - **Happiest Countries (2019)**: Finland, Denmark, Norway, Iceland, Netherlands, Switzerland, Sweden, New Zealand, Canada, Austria.
 - **Least Happy Countries (2019)**: South Sudan, Central African Republic, Afghanistan, Tanzania, Rwanda, Yemen, Malawi, Syria, Botswana, Haiti.
 - **Machine Learning Models**: Implemented linear regression, decision tree, and random forest models to predict happiness scores with high accuracy.
