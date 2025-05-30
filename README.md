@@ -42,7 +42,3 @@ This project analyzes global happiness scores using the **World Happiness Report
 - Sustainable Development Solutions Network. (2019). *World Happiness Report.*
 - Taylor, A. (2016, February 10). *The UAE created a minister of happiness, but what does that even mean?* The Washington Post. Retrieved February 19, 2023, from [https://www.washingtonpost.com/news/worldviews/wp/2016/02/10/the-uae-created-a-minister-of-happiness-but-what-does-that-even-mean/](https://www.washingtonpost.com/news/worldviews/wp/2016/02/10/the-uae-created-a-minister-of-happiness-but-what-does-that-even-mean/)
 - *What Is Happiness?* (n.d.). Greater Good Magazine. Retrieved January 15, 2023, from [https://greatergood.berkeley.edu/topic/happiness/definition](https://greatergood.berkeley.edu/topic/happiness/definition)
-
-## 👥 Team
-- Lucy Lee
-- Robin Wixom
